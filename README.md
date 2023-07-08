@@ -16,5 +16,5 @@ To get started with the GitHub Blog App, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/github-blog-app.git
+   git clone https://github.com/your-username/React-blog-app.git
 
